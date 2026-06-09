@@ -218,3 +218,99 @@ If you found this project useful, please consider giving it a star on GitHub.
 ## 📄 License
 
 This project is intended for educational and portfolio purposes.
+
+
+## 🔍 Project Workflow
+
+### 🧰 Tools Used
+
+* Microsoft Excel
+* Power Query
+* Power Pivot
+* DAX (Data Analysis Expressions)
+* Power BI
+
+---
+
+### 🔹 Step 1 — Data Cleaning & Preparation
+
+Using Excel and Power Query, the dataset was cleaned and transformed to ensure accurate analysis.
+
+#### Tasks Performed
+
+* Removed duplicate records
+* Eliminated unnecessary columns
+* Handled missing values
+* Checked and corrected data inconsistencies
+* Prepared the dataset for analysis
+
+#### Created Calculated Columns
+
+* Discount Value
+* Sales After Discount
+* Cost of Goods Sold (COGS)
+
+**Outcome:** A clean and reliable dataset ready for reporting and visualization.
+
+---
+
+### 🔹 Step 2 — Data Modeling & KPI Development
+
+Using Power Pivot and DAX, key business metrics were developed to monitor organizational performance.
+
+#### Key Performance Indicators (KPIs)
+
+| KPI                      | Value   |
+| ------------------------ | ------- |
+| Total Sales              | 2.30M   |
+| Total Orders             | 5009    |
+| Total Profit             | 286.40K |
+| Average Profit Per Order | 458.61  |
+| Average Discount         | 15.62%  |
+| Total COGS               | 1.69M   |
+
+---
+
+### 🎨 Dashboard Highlights
+
+* Interactive multi-page dashboard
+* Dynamic slicers for filtering data
+* KPI cards for quick performance tracking
+* Sales and profitability analysis
+* Regional and category-based comparisons
+* Monthly trend analysis
+* Customer performance insights
+* Clean and business-friendly design
+
+---
+
+## 📈 Key Learnings
+
+This project helped strengthen my skills in:
+
+* Data Cleaning & Transformation
+* Data Modeling
+* Power Query
+* Power Pivot
+* DAX Calculations
+* KPI Development
+* Business Intelligence
+* Dashboard Design
+* Data Visualization
+* Analytical Thinking
+* Business Insight Generation
+* Data Storytelling
+
+---
+
+## 🚀 Project Impact
+
+This dashboard transforms raw sales data into actionable business insights by:
+
+* Identifying top-performing categories
+* Monitoring profitability trends
+* Evaluating customer contributions
+* Supporting strategic decision-making
+* Improving visibility into business performance
+
+Turning raw data into meaningful insights is one of the most rewarding aspects of data analytics, and this project reflects my growing expertise in Business Intelligence and Data Visualization.
