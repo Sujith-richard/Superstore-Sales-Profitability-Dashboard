@@ -190,36 +190,6 @@ The dataset contains:
 
 ---
 
-## 💻 Tools Used
-
-* Microsoft Power BI
-* Power Query
-* DAX
-* Microsoft Excel
-* Git
-* GitHub
-
----
-
-## 👨‍💻 Author
-
-**Sujith Richard**
-
-Electronics and Communication Engineer | Data Analytics Enthusiast | Power BI Developer
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a star on GitHub.
-
----
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
-
-
 ## 🔍 Project Workflow
 
 ### 🧰 Tools Used
@@ -229,6 +199,8 @@ This project is intended for educational and portfolio purposes.
 * Power Pivot
 * DAX (Data Analysis Expressions)
 * Power BI
+* Microsoft Power BI
+* Microsoft Excel
 
 ---
 
@@ -314,3 +286,23 @@ This dashboard transforms raw sales data into actionable business insights by:
 * Improving visibility into business performance
 
 Turning raw data into meaningful insights is one of the most rewarding aspects of data analytics, and this project reflects my growing expertise in Business Intelligence and Data Visualization.
+
+---
+
+## 👨‍💻 Author
+
+**Sujith Richard**
+
+Electronics and Communication Engineer | Data Analytics Enthusiast | Power BI Developer
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a star on GitHub.
+
+---
+
+## 📄 License
+
+This project is intended for educational and portfolio purposes.
