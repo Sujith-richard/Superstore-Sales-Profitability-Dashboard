@@ -84,11 +84,11 @@ The dashboard enables data-driven decision-making through KPI tracking and visua
 ## 🖼️ Dashboard Screenshots
 
 <p align="center">
-  <img src="screenshots/0.png" width="900">
+  <img src="screenshots/0.jpg" width="900">
 </p>
 
 <p align="center">
-  <img src="screenshots/1.png" width="900">
+  <img src="screenshots/1.jpg" width="900">
 </p>
 
 ---
